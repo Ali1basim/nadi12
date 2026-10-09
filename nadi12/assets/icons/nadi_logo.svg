@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" fill="none">
+  <!-- Barbell Left Plates -->
+  <rect x="20" y="30" width="12" height="60" rx="4" fill="#2F6BFF"/>
+  <rect x="36" y="20" width="16" height="80" rx="5" fill="#3B82F6"/>
+  <rect x="56" y="35" width="8" height="50" rx="3" fill="#60A5FA"/>
+  <!-- Barbell Shaft Left -->
+  <rect x="64" y="54" width="30" height="12" rx="3" fill="#E2E8F0"/>
+  
+  <!-- Central NADI Text -->
+  <text x="200" y="72" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" letter-spacing="8" fill="#FFFFFF" text-anchor="middle">NADI</text>
+  
+  <!-- Barbell Shaft Right -->
+  <rect x="306" y="54" width="30" height="12" rx="3" fill="#E2E8F0"/>
+  <!-- Barbell Right Plates -->
+  <rect x="336" y="35" width="8" height="50" rx="3" fill="#60A5FA"/>
+  <rect x="348" y="20" width="16" height="80" rx="5" fill="#3B82F6"/>
+  <rect x="368" y="30" width="12" height="60" rx="4" fill="#2F6BFF"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#1E222B" stroke="#2F6BFF" stroke-width="2"/>
+  <circle cx="50" cy="38" r="18" fill="#A78BFA"/>
+  <path d="M22 84c0-15.464 12.536-26 28-26s28 10.536 28 26" fill="#818CF8"/>
+  <!-- Cool purple hair/glasses detail inspired by Figma avatar -->
+  <rect x="36" y="34" width="11" height="8" rx="2" fill="#3B82F6"/>
+  <rect x="53" y="34" width="11" height="8" rx="2" fill="#3B82F6"/>
+  <line x1="47" y1="38" x2="53" y2="38" stroke="#3B82F6" stroke-width="2"/>
+</svg>
